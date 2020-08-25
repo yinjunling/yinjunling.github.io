@@ -5,7 +5,7 @@ subtitle: My name is Jason Yin
 sitemap:
   priority: 0.9
 ---
-
+<meta name="keywords" content="cisco,juniper,Palo Alto,CCNA,CCNP,CCIE,JNCIA,JNCIS,JNCIE,Linux,Unix,Git,Python,Ansible,bash,shell,service provider,Rogers,Bell,Telus,Redhat" />
 <img src="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
